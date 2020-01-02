@@ -1,0 +1,4 @@
+# Project exclude paths
+/kafka-example-client/target/
+.idea
+kafka-example.iml
